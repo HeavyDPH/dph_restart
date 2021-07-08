@@ -1,2 +1,2 @@
-# dph_restart
+# purple_grape_restart
 AWS restart
